@@ -12,9 +12,9 @@
         <properties>
             <!-- BD -->
             <property name="jakarta.persistence.jdbc.driver" value="org.postgresql.Driver"/>
-            <property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://localhost:5433/empleadosdb"/>
-            <property name="jakarta.persistence.jdbc.user" value="postgres"/>
-            <property name="jakarta.persistence.jdbc.password" value="password"/>
+            <property name="jakarta.persistence.jdbc.url" value="jdbc:postgresql://localhost:5433/fiadb"/>
+            <property name="jakarta.persistence.jdbc.user" value="admin"/>
+            <property name="jakarta.persistence.jdbc.password" value="Password-123"/>
 
             <!-- Hibernate -->
             <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect"/>
